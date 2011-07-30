@@ -9,4 +9,4 @@ Files:
 
 * spec/newbie_ninja_spec.rb -> A spec using basic stuff
 
-* spec/newbie_ninja_spec.rb -> A spec using more advanced stuff
+* spec/ninja_spec.rb -> A spec using more advanced stuff
